@@ -59,7 +59,7 @@ Recall HR/ LR:   87% / 95%
 
 # Summary
 
-Being able to be precise in terms of predicting a high level of credit risk seems quite difficult in any model but if we talk about sensitivity or recall, because each model performs differently. In the same way that if we value the balanced_accuracy_score to be able to know that our models will also perform with new information and with this know that they will also predict their level of risk, we can see that each model handles it differently.Simply if I had to give a recommendation to choose one of these models, it would undoubtedly be EasyEnsembleClassifier, since it was able to correctly predict 90.7% of the data, it was also the one with the best Precision and Recall of all the models, both for credit risk high as low credit risk
+Being able to be precise in terms of predicting a high level of credit risk seems quite difficult in any model but if we talk about sensitivity or recall we can see that each model performs differently. In the same way  if we evaluate the balanced_accuracy_score  we can see how our models will  perform with new information and  also we can know how good they will  predict the level of risk, they can do it better or worse depending on what we choose.Simply if I had to give a recommendation to choose one of these models, it would undoubtedly be EasyEnsembleClassifier, since it was able to correctly predict 90.7% of the data, it was also the one with the best Precision and Recall of all the models, both for credit risk high as low credit risk
 
 
 
