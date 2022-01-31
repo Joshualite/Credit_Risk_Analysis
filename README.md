@@ -35,8 +35,9 @@ Recall HR/ LR:   63% / 68%
 
 ## Combination (Over and Under) Sampling    ---SMOTEENN---
 Accuracy Scores:      
-Precision HR/LR: 1% / 100%       
+Precision HR/LR: 1% / 100%        
 Recall HR/ LR:   72%/57%
+
 ![image](https://user-images.githubusercontent.com/66183125/151720959-594491c7-4fad-46c7-bda9-47b319ebbf85.png)
 
 
@@ -47,6 +48,7 @@ Recall HR/ LR:   72%/57%
 Accuracy Scores:   80.7%   
 Precision HR/LR: 3% / 100%      
 Recall HR/ LR:   72%/ 89%
+
 ![image](https://user-images.githubusercontent.com/66183125/151720945-c9e5d8db-74bb-45fc-85a4-988b7f115693.png)
 
 
@@ -54,6 +56,7 @@ Recall HR/ LR:   72%/ 89%
 Accuracy Scores: 90.7%   
 Precision HR/LR: 7% / 100%      
 Recall HR/ LR:   87% / 95%
+
 ![image](https://user-images.githubusercontent.com/66183125/151720938-7dfca143-d683-4dd1-ba7c-e327f6ae7c5e.png)
 
 
